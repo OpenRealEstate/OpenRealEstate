@@ -1,6 +1,6 @@
 
 
-# OpenRealEstate.NET 
+# OpenRealEstate.NET
 
 This is the home page / project overview for the OpenRealEstate project and is intended for kind folks who are learning to integrate this system into their own system(s) or to contribute to the project.
 
@@ -10,8 +10,8 @@ The ethos of this project is to have a common, open and uniform way to represent
 
 ---
 
-### Repository heirachy
-The repositories are oranganised into a heirachy, following some Namespace and Area conventions:
+### Repository hierachy
+The repositories are organised into a hierachy, following some Namespace and Area conventions:
 
 | Project        | Language                 | Area                       |
 | ---------------|--------------------------|----------------------------|
@@ -35,7 +35,7 @@ e.g.
 
 ## Contributing
 
-Discussions and pull requests are encouraged :) Please ask all general questions in this repo or pick a specialized repo for specific, targetted issues. We also have a [contributing](https://github.com/OpenRealEstate/OpenRealEstate/blob/master/CONTRIBUTING.md) document which goes into detail about how to do this.
+Discussions and pull requests are encouraged :) Please ask all general questions in this repo or pick a specialized repo for specific, targeted issues. We also have a [contributing document](https://github.com/OpenRealEstate/OpenRealEstate/blob/master/CONTRIBUTING.md) which goes into detail about how to do this.
 
 ## Code of Conduct
 Yep, we also have a [code of conduct](https://github.com/OpenRealEstate/OpenRealEstate/blob/master/CODE_OF_CONDUCT.md) which applies to all repositories in the OpenRealEstate organisation.
